@@ -1,4 +1,4 @@
-const API_KEY = '19182122-b959857203510615d63e1aa25';
+const API_KEY = '19366071-7694c1ef5ecbe58de6b040ab5';
 const BASE_URL =
   'https://pixabay.com/api/?image_type=photo&orientation=horizontal&';
 
